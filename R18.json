@@ -1,0 +1,39 @@
+{
+  "parses": [
+    {
+      "name": "解析1",
+      "type": 0,
+      "url": "https://xxx.xxx?jx="
+    },
+    {
+      "name": "葡萄资源",
+      "type": 3,
+      "url": "https://caiji.putaozy.net/inc/api.php"
+    },
+    {
+      "name": "探探资源",
+      "type": 3,
+      "url": "https://apittzy.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "name": "KK资源网",
+      "type": 3,
+      "url": "https://kkzy.me/api.php/provide/vod/at/xmlsea"
+    },
+    {
+      "name": "色猫资源",
+      "type": 3,
+      "url": "https://api.maozyapi.com/inc/api.php"
+    },
+    {
+      "name": "乐播",
+      "type": 0,
+      "url": "https://lbapi9.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "name": "哥哥妹妹",
+      "type": 0,
+      "url": "http://www.ggmmzy.com:9999/inc/xml"
+    }
+  ],
+}
