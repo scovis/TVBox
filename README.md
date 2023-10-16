@@ -1,14 +1,13 @@
-​ <p align="center"><img src="https://github.com/scovis/TVBox/blob/main/images/DM_20231016191230_001.jpg?raw=true" width="210px" />
-# ​<p align="center">Scovis TVBOX  
+<p align="center"><img src="https://github.com/scovis/TVBox/blob/main/images/DM_20231016191230_001.jpg?raw=true" width="130px" /><br>
 
-​<p align="center">[](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)   
-## ​<p align="center">一个开源免费无广告的TVBox解析源😎 
+  # ​<p align="center">Scovis TVBOX  
+  
+## ​<p align="center">一个开源免费无广告的TVBox解析源🏅 <p align="center">[](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)   
 
-## 📖使用说明
+
+## 📖介绍
 - 本仓库聚合了APP、解析源、直播源等项目，总之你要的一个仓库全搞定(拉到👇有福利)；
-- 所有源均收集于互联网，仅供测试研究使用，不得商用；
-- 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担；
-- 您可以Fork本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议. 
+
 
 ## ⚙️GitHub加速站 
 -  https://githubraw.com/ 
@@ -16,8 +15,8 @@
 
 ## 📲软件合集
 ### TVBox for Android
-- Takegen99(横屏)： o0HalfLife0o/TVBoxOSC
-- 开源壳(竖屏)： XiaoRanLiu3119/TVBoxOS-Mobile
+- Takegen99(横屏)： [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC "o0HalfLife0o/TVBoxOSC")
+- 开源壳(竖屏)： [XiaoRanLiu3119/TVBoxOS-Mobile](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile "XiaoRanLiu3119/TVBoxOS-Mobile")
 
 ## ✨热门TVBox源
 - （1）唐三：https://gh.t4tv.hz.cz/newtang.bmp 
@@ -54,4 +53,9 @@
 | 📻Radio电台源        |   https://live.fanmingming.com/radio/m3u/index.m3u   | 
 
 ## 🎁福利18+
-- 自行fork仓库打包
+- 自行fork仓库打包<br>
+
+## 🫶使用说明
+- 所有源均收集于互联网，仅供测试研究使用，不得商用；
+- 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担；
+- 您可以Fork本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议. 
