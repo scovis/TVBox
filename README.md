@@ -1,12 +1,8 @@
-<p align="center"><img src="https://github.com/scovis/TVBox/blob/main/images/DM_20231016191230_001.jpg?raw=true" width="130px" /><br>
-
-  # ​<p align="center">Scovis TVBOX  
-  
+# <p align="center"><img src="https://github.com/scovis/TVBox/blob/main/images/logo.png?raw=true" width="150px" /><br>​<p align="center">[Scovis For TVBox](https://github.com/scovis/TVBox "Scovis For TVBox")
 ## ​<p align="center">一个开源免费无广告的TVBox解析源🏅 <p align="center">[](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)   
 
-
 ## 📖介绍
-- 本仓库聚合了APP、解析源、直播源等项目，总之你要的一个仓库全搞定(拉到👇有福利)；
+- 本仓库聚合了APP、解析源、直播源等项目，总之你要的一个仓库全搞定(拉到👇有福利)
 
 
 ## ⚙️GitHub加速站 
@@ -15,8 +11,8 @@
 
 ## 📲软件合集
 ### TVBox for Android
-- Takegen99(横屏)： [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC "o0HalfLife0o/TVBoxOSC")
-- 开源壳(竖屏)： [XiaoRanLiu3119/TVBoxOS-Mobile](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile "XiaoRanLiu3119/TVBoxOS-Mobile")
+- Takegen99(横屏)： [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC/releases "o0HalfLife0o/TVBoxOSC")
+- 开源壳(竖屏)： [XiaoRanLiu3119/TVBoxOS-Mobile](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases "XiaoRanLiu3119/TVBoxOS-Mobile")
 
 ## ✨热门TVBox源
 - （1）唐三：https://gh.t4tv.hz.cz/newtang.bmp 
